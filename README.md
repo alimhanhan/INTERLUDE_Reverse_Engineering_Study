@@ -1,2 +1,2 @@
-# INTERLUDE_Reverse_Engeneering_Studyy
+# INTERLUDE_Reverse_Engeneering_Study
 2023 INTERLUDE_2nd Semester Reverse Engineering Study
